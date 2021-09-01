@@ -1,0 +1,29 @@
+{
+  "name": "X-O-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr-atta/X-O-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mr-atta/X-O-game/issues"
+  },
+  "homepage": "https://github.com/mr-atta/X-O-game#readme",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "socket.io": "^4.1.3",
+    "socket.io-client": "^4.1.3",
+    "jest": "^27.1.0",
+    "dotenv": "^10.0.0",
+    "supertest": "^6.1.6",
+    "uuid": "^8.3.2"
+  }
+}
