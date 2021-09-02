@@ -15,7 +15,9 @@ nom start
 - faker
 - uuid
 **Links**
-- [heroku]()
+- [heroku](https://xoproj.herokuapp.com/)
+- [Live Url](https://xoproj.netlify.app)
 - [frontEnd_repo](https://github.com/Suhaib-Ersan/front-end-week-3)
+
 ### Game Flow
 ![](./codefllow.png)
